@@ -7,3 +7,19 @@
 
 ![Profile pic](images/profile%20image.jpeg)
 
+
+--
+
+# Recommended Sports
+
+### These recommended sports offer a range of benefits. Tennis improves agility and cardiovascular fitness, while rock climbing challenges strength and problem-solving skills. Yoga enhances flexibility, balance, and mindfulness, and cycling is great for cardiovascular health and outdoor exploration. Try one of these sports to stay active and enjoy their unique advantages.
+
+
+
+
+| Sport          | Description                                      |
+|:----------------:|:--------------------------------------------------:|
+| Tennis         | A fun way to improve agility and cardio fitness.  |
+| Rock Climbing  | Challenges strength and problem-solving skills.  |
+| Yoga           | Enhances flexibility, balance, and mindfulness.  |
+| Cycling        | Great for cardiovascular health and exploration. |
