@@ -16,9 +16,10 @@
 
 
 
-| Sport          | Description                                      |
-|:----------------:|:--------------------------------------------------:|
-| Tennis         | A fun way to improve agility and cardio fitness.  |
-| Rock Climbing  | Challenges strength and problem-solving skills.  |
-| Yoga           | Enhances flexibility, balance, and mindfulness.  |
-| Cycling        | Great for cardiovascular health and exploration. |
+| Sport           | Recommendation Reason                                | Weekly Hours |
+|-----------------|------------------------------------------------------|--------------|
+| Tennis          | Improves agility and cardiovascular fitness.         | 3-5 hours    |
+| Hiking          | Offers a chance to connect with nature and de-stress.| 5-7 hours    |
+| Swimming        | Provides a full-body workout with low impact.        | 4-6 hours    |
+| Yoga            | Enhances flexibility, balance, and mindfulness.      | 2-4 hours    |
+| Basketball      | Promotes teamwork, coordination, and cardiovascular health. | 3-5 hours |
