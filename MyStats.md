@@ -23,3 +23,12 @@
 | Swimming        | Provides a full-body workout with low impact.        | 4-6 hours    |
 | Yoga            | Enhances flexibility, balance, and mindfulness.      | 2-4 hours    |
 | Basketball      | Promotes teamwork, coordination, and cardiovascular health. | 3-5 hours |
+
+---
+
+
+> *"The computer was born to solve problems that did not exist before."*
+> - *Bill Gates*
+
+> *"The best way to predict the future is to invent it."*
+> - *Alan Kay*
