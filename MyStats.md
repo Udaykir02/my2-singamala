@@ -7,8 +7,7 @@
 
 ![Profile pic](images/profile%20image.jpeg)
 
-
---
+---
 
 # Recommended Sports
 
