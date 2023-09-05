@@ -32,3 +32,21 @@
 
 > *"The best way to predict the future is to invent it."*
 > - *Alan Kay*
+
+---
+
+> I found a relevant question on Stack Overflow about checking for HTTPS in PHP. You can check it out [here](https://stackoverflow.com/questions/1175096/how-to-find-out-if-youre-using-https-without-serverhttps) for more details.
+
+```
+if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off'
+    || $_SERVER['SERVER_PORT'] == 443) {
+
+  // HTTPS
+
+} else {
+
+  // HTTP
+
+}
+```
+> The link for the above code snippet can be found at <https://css-tricks.com/snippets/php/http-or-https/>
