@@ -10,12 +10,12 @@ Adding to the marvels of nature are the **ancient relics**, delectable cuisine, 
 ---
 
 # Activities TODO List
-1.Swimming
-2.Seeing Sunset
-    1.Morning Sunset
-    2.Evening Sunset
-3.Boat Ride
-4.Food
+1. Swimming
+2. Seeing Sunset
+    1. Morning Sunset
+    2. Evening Sunset
+3. Boat Ride
+4. Food
 
 
 # Food
