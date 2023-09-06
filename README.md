@@ -9,6 +9,7 @@ Adding to the marvels of nature are the **ancient relics**, delectable cuisine, 
 
 ---
 
+
 # Activities TODO List
 1. Swimming
 2. Seeing Sunset
@@ -17,12 +18,13 @@ Adding to the marvels of nature are the **ancient relics**, delectable cuisine, 
 3. Boat Ride
 4. Food
 
-
 # Food
 * Greek salad
 * Tomatokeftedes
 * Saganaki
 * Dolma
+
+
 
 ** [MyStats page](MyStats.md)**
 
