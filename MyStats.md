@@ -11,8 +11,9 @@
 
 ### These recommended sports offer a range of benefits. Tennis improves agility and cardiovascular fitness, while rock climbing challenges strength and problem-solving skills. Yoga enhances flexibility, balance, and mindfulness, and cycling is great for cardiovascular health and outdoor exploration. Try one of these sports to stay active and enjoy their unique advantages.
 
+---
 
-
+# Sports Table.
 
 | Sport           | Recommendation Reason                                | Weekly Hours |
 |-----------------|------------------------------------------------------|--------------|
@@ -24,6 +25,8 @@
 
 ---
 
+# Pithy Quotes
+
 
 > *"The computer was born to solve problems that did not exist before."*
 > - *Bill Gates*
@@ -32,6 +35,8 @@
 > - *Alan Kay*
 
 ---
+
+# Code Fencing
 
 > I found a relevant question on Stack Overflow about checking for HTTPS in PHP. You can check it out [here](https://stackoverflow.com/questions/1175096/how-to-find-out-if-youre-using-https-without-serverhttps) for more details.
 
