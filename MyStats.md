@@ -7,21 +7,18 @@
 
 ---
 
-# Recommended Sports
+**Exploring Exciting Sports**
 
-### These recommended sports offer a range of benefits. Tennis improves agility and cardiovascular fitness, while rock climbing challenges strength and problem-solving skills. Yoga enhances flexibility, balance, and mindfulness, and cycling is great for cardiovascular health and outdoor exploration. Try one of these sports to stay active and enjoy their unique advantages.
+In this section, we'll dive into the world of sports and recommend four exciting activities for you to try. Each sport offers a unique set of physical and mental benefits, ensuring an enjoyable and fulfilling experience. The table below provides an overview of these sports, reasons for recommending them, and an estimate of the average weekly time commitment.
 
----
+| Sport Name         | Reason for Recommendation              | Average Weekly Hours |
+|--------------------|--------------------------------------|----------------------|
+| Rock Climbing      | Builds strength, problem-solving skills, and provides an adrenaline rush. | 3-5 hours           |
+| Ultimate Frisbee   | Promotes teamwork, cardiovascular fitness, and a friendly social atmosphere. | 2-4 hours           |
+| Parkour            | Enhances agility, creativity, and a unique way to explore your environment. | 4-6 hours           |
+| CrossFit           | Offers a well-rounded fitness regimen, combining strength and endurance training. | 5-7 hours           |
 
-# Sports Table.
 
-| Sport           | Recommendation Reason                                | Weekly Hours |
-|-----------------|------------------------------------------------------|--------------|
-| Tennis          | Improves agility and cardiovascular fitness.         | 3-5 hours    |
-| Hiking          | Offers a chance to connect with nature and de-stress.| 5-7 hours    |
-| Swimming        | Provides a full-body workout with low impact.        | 4-6 hours    |
-| Yoga            | Enhances flexibility, balance, and mindfulness.      | 2-4 hours    |
-| Basketball      | Promotes teamwork, coordination, and cardiovascular health. | 3-5 hours |
 
 ---
 
